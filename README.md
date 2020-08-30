@@ -19,8 +19,10 @@ Aiming to leverage to learning. frequently praised as result -oriented by my pee
 
 ## Let's Connect -
 
-[![Twitter Badge](https://img.shields.io/badge/-@Himanshu_0624-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Himanshu_0624)](https://twitter.com/Himanshu_0624) [![Linkedin Badge](https://img.shields.io/badge/-himanshu-gupta-0624-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-gupta-0624/)](https://www.linkedin.com/in/himanshu-gupta-0624/)
+[![Twitter Badge](https://img.shields.io/badge/-@Himanshu_0624-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Himanshu_0624)](https://twitter.com/Himanshu_0624) [![Linkedin Badge](https://img.shields.io/badge/-himanshu0624-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-gupta-0624/)](https://www.linkedin.com/in/himanshu-gupta-0624/)
 [![Gmail Badge](https://img.shields.io/badge/-himbxr22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himbxr22@gmail.com)](mailto:himbxr22@gmail.com)
 
 
 ⭐ From [Himanshu Gupta](https://github.com/himanshu-0624)
+
+ [![Linkedin Badge](https://img.shields.io/badge/-abhishekapk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekapk/)](https://www.linkedin.com/in/abhishekapk/) 
