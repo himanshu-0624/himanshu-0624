@@ -9,7 +9,7 @@ Aiming to leverage to learning. frequently praised as result -oriented by my pee
 
 - 💻 I’m currently a MERN Stack Web Developer.
 
-- 🌱 I'm currently learning Flutter App Development.
+- 🌱 I'm currently learning Android App Development.
 
 - 💬 Ask me about anything 
 
