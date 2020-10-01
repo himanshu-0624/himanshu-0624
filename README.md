@@ -13,8 +13,6 @@
 
 - 😄 Pronouns: **Team Player**, **Logician** and **Thinker**
 
-- 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/himanshu_0624](https://www.freecodecamp.org/himanshu_0624)
-
 - 📝 I regulary write articles on [https://littlerootsofcomputers.blogspot.com/](https://littlerootsofcomputers.blogspot.com/)
 
 - 💬 Ask me about anything 
