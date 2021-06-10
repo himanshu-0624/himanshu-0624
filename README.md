@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: **Team Player**, **Logician** and **Thinker**
 
-- 📝 I regulary write articles on [https://littlerootsofcomputers.blogspot.com/](https://littlerootsofcomputers.blogspot.com/)
+- 📝 sometimes write articles on [https://littlerootsofcomputers.blogspot.com/](https://littlerootsofcomputers.blogspot.com/)
 
 - 💬 Ask me about anything 
 
