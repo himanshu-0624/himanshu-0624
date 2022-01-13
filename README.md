@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on **MERN project**
 
-- 🌱 I’m currently learning **Android app development**
-
 - 👯 I’m looking to collaborate on **MERN project**
 
 - 😄 Pronouns: **Team Player**, **Logician** and **Thinker**
-
-- 📝 sometimes I write articles on [https://littlerootsofcomputers.blogspot.com/](https://littlerootsofcomputers.blogspot.com/)
 
 - 💬 Ask me about anything 
 
