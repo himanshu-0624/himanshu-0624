@@ -17,13 +17,7 @@
 
 - ⚡ Fun fact **I am in sleep right now.**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/himanshu_0624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshu_0624" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu-gupta-0624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu-gupta-0624" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu_0624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="himanshu_0624" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himanshu_0624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="himanshu_0624" height="30" width="40" /></a>
-</p>
+
 
 
 
